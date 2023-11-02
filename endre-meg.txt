@@ -10,5 +10,10 @@ Historien i filene jeg forstår nå lett.
 Dagens dato, en ny start, en tid for vekst,
 Med versionskontroll, jeg tar den beste fest.
 
+<<<<<<< HEAD
 Dato: 01.11.23 
 Universitet: UiO
+=======
+Dato: <11.02.2023> 
+Universitet: <UiT>
+>>>>>>> 08e5118 (Endret dato og universitet)
