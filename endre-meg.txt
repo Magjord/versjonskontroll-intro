@@ -13,3 +13,5 @@ Med versionskontroll, jeg tar den beste fest.
 Dato: <11.02.2023> 
 
 Universitet: <UiT>
+
+Chai er here
