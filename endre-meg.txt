@@ -1,6 +1,6 @@
--- Versjonskontrollens Reise --
+-- Dikt supreme --
 
-På universitets sti jeg trår,
+På universitetets sti jeg trår,
 Versionskontroll jeg nå skal lære.
 Commits, branches, og mergekommandoer,
 I kodeskogen, jeg finner mine spor.
@@ -11,4 +11,5 @@ Dagens dato, en ny start, en tid for vekst,
 Med versionskontroll, jeg tar den beste fest.
 
 Dato: <11.02.2023> 
+
 Universitet: <UiT>
